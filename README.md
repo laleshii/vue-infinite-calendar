@@ -2,6 +2,8 @@
 
 > A simple infinite calendar component in Vue 2
 
+<img alt="vue-infinite-calendar example" src="https://raw.githubusercontent.com/laleshii/vue-infinite-calendar/master/src/assets/calendar.png" width="300"/>
+
 ## Build Setup
 
 ``` bash
